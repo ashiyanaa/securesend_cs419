@@ -194,3 +194,32 @@ export JWT_SECRET="your-long-random-secret-here"
 - No document versioning — re-uploading the same file creates a duplicate entry rather than replacing the original
 - JWT tokens are not invalidated server-side on logout — a stolen token remains valid until its 30-minute expiry because `requireAuth` only verifies the JWT signature and does not check `sessions.json`
 - Logs stored on same server — production should use remote log aggregation
+
+## Quick Start (For Graders)
+
+> Demo accounts are pre-configured — no registration needed.
+
+**Terminal 1 — Backend:**
+```bash
+cd server
+npm install
+openssl req -x509 -newkey rsa:2048 -nodes -out cert.pem -keyout key.pem -days 365 -subj "/CN=localhost"
+node app.js
+```
+
+**Then — accept the TLS certificate:**
+> Open **https://localhost:3001** in your browser → click **Advanced** → **Proceed to localhost**
+
+**Terminal 2 — Frontend:**
+```bash
+cd client
+npm install
+npm run dev
+```
+
+**Then visit:** http://localhost:5173
+
+**Login with:**
+- `admin / Admin@12345!` — full access
+- `lawyer / Lawyer@12345!` — upload/share documents  
+- `doctor / Doctor@12345!` — view shared documents only
