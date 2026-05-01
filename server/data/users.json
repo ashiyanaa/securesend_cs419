@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ca6305cb-8d0b-4335-9c4e-449e5ce19d47",
+    "username": "admin",
+    "email": "admin@securesend.com",
+    "password": "$2b$12$.cOtofea.fX5T3LeUEM.Ke9I6TT7kJmjawiz/SroF1AjgspSXbWxm",
+    "role": "admin",
+    "failedAttempts": 1,
+    "lockedUntil": null,
+    "createdAt": "2026-04-20T01:22:48.555Z"
+  },
+  {
+    "id": "1ca703f6-03e2-4667-91c1-fea376832c90",
+    "username": "lawyer",
+    "email": "lawyer@lawfirm.com",
+    "password": "$2b$12$BDWqoQ7Gd00IGh4Fsw51Ye5KCgmn29sEUV5E0KN1uar7CHA/vMed6",
+    "role": "user",
+    "failedAttempts": 0,
+    "lockedUntil": null,
+    "createdAt": "2026-04-20T21:45:18.937Z"
+  },
+  {
+    "id": "7c54e769-415b-40f3-a784-e7ca6fc58438",
+    "username": "doctor",
+    "email": "doctor@hospital.com",
+    "password": "$2b$12$6ehTk7aOR60gzA9v8kF0RO2cjwfG2.Rx.7/u/EABu8SGqwEwcjSlW",
+    "role": "guest",
+    "failedAttempts": 0,
+    "lockedUntil": null,
+    "createdAt": "2026-04-20T21:46:12.829Z"
+  }
+]

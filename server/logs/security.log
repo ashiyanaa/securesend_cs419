@@ -1,0 +1,83 @@
+{"timestamp":"2026-04-20T01:22:48.557Z","severity":"INFO","event":"REGISTER_SUCCESS","username":"admin","detail":"New account created"}
+{"timestamp":"2026-04-20T01:22:54.984Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"admin","detail":"Successful login"}
+{"timestamp":"2026-04-20T01:24:05.427Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"admin","detail":"Successful login"}
+{"timestamp":"2026-04-20T02:14:31.055Z","severity":"WARNING","event":"INVALID_TOKEN","username":"unknown","detail":"Expired or invalid JWT"}
+{"timestamp":"2026-04-20T02:14:57.565Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"admin","detail":"Successful login"}
+{"timestamp":"2026-04-20T02:15:08.352Z","severity":"ERROR","event":"DOC_UPLOAD_FAILED","username":"admin","detail":"Invalid filename"}
+{"timestamp":"2026-04-20T02:15:38.791Z","severity":"ERROR","event":"DOC_UPLOAD_FAILED","username":"admin","detail":"Invalid filename"}
+{"timestamp":"2026-04-20T02:15:49.337Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"admin","detail":"Successful login"}
+{"timestamp":"2026-04-20T02:16:01.194Z","severity":"INFO","event":"DOC_UPLOAD","username":"admin","detail":"Uploaded axolotl_article1.pdf (encrypted)"}
+{"timestamp":"2026-04-20T02:16:03.748Z","severity":"INFO","event":"DOC_DOWNLOAD","username":"admin","detail":"Downloaded axolotl_article1.pdf"}
+{"timestamp":"2026-04-20T02:16:23.182Z","severity":"INFO","event":"LOGOUT","username":"admin","detail":"User logged out"}
+{"timestamp":"2026-04-20T02:16:33.179Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"admin","detail":"Successful login"}
+{"timestamp":"2026-04-20T21:42:43.874Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"admin","detail":"Successful login"}
+{"timestamp":"2026-04-20T21:45:04.610Z","severity":"INFO","event":"LOGOUT","username":"admin","detail":"User logged out"}
+{"timestamp":"2026-04-20T21:45:18.937Z","severity":"INFO","event":"REGISTER_SUCCESS","username":"lawyer","detail":"New account created"}
+{"timestamp":"2026-04-20T21:45:25.237Z","severity":"WARNING","event":"LOGIN_FAILED","username":"lawyer ","detail":"User not found"}
+{"timestamp":"2026-04-20T21:45:33.982Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"lawyer","detail":"Successful login"}
+{"timestamp":"2026-04-20T21:45:38.704Z","severity":"INFO","event":"LOGOUT","username":"lawyer","detail":"User logged out"}
+{"timestamp":"2026-04-20T21:45:49.301Z","severity":"WARNING","event":"LOGIN_FAILED","username":"doctor","detail":"User not found"}
+{"timestamp":"2026-04-20T21:46:12.830Z","severity":"INFO","event":"REGISTER_SUCCESS","username":"doctor","detail":"New account created"}
+{"timestamp":"2026-04-20T21:57:56.225Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"admin","detail":"Successful login"}
+{"timestamp":"2026-04-20T22:01:58.058Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"admin","detail":"Successful login"}
+{"timestamp":"2026-04-20T22:11:21.088Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"admin","detail":"Successful login"}
+{"timestamp":"2026-04-20T22:12:53.021Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"admin","detail":"Successful login"}
+{"timestamp":"2026-04-20T22:13:34.540Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"admin","detail":"Successful login"}
+{"timestamp":"2026-04-20T22:14:05.902Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"admin","detail":"Successful login"}
+{"timestamp":"2026-04-20T22:14:52.949Z","severity":"INFO","event":"LOG_EXPORT","username":"admin","detail":"Admin exported full audit log"}
+{"timestamp":"2026-04-20T23:04:09.256Z","severity":"WARNING","event":"INVALID_TOKEN","username":"unknown","detail":"Expired or invalid JWT"}
+{"timestamp":"2026-04-20T23:04:11.683Z","severity":"WARNING","event":"INVALID_TOKEN","username":"unknown","detail":"Expired or invalid JWT"}
+{"timestamp":"2026-04-20T23:04:50.889Z","severity":"WARNING","event":"INVALID_TOKEN","username":"unknown","detail":"Expired or invalid JWT"}
+{"timestamp":"2026-04-20T23:06:26.533Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"admin","detail":"Successful login"}
+{"timestamp":"2026-04-20T23:06:28.690Z","severity":"INFO","event":"DOC_DELETE","username":"admin","detail":"Deleted axolotl_article1.pdf"}
+{"timestamp":"2026-04-20T23:11:28.818Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"admin","detail":"Successful login"}
+{"timestamp":"2026-04-20T23:12:01.928Z","severity":"ERROR","event":"DOC_UPLOAD_FAILED","username":"admin","detail":"Invalid filename"}
+{"timestamp":"2026-04-20T23:12:30.643Z","severity":"ERROR","event":"DOC_UPLOAD_FAILED","username":"admin","detail":"Invalid filename"}
+{"timestamp":"2026-04-20T23:13:46.761Z","severity":"INFO","event":"DOC_UPLOAD","username":"admin","detail":"Uploaded wardelections_poster.pdf (encrypted)"}
+{"timestamp":"2026-04-20T23:18:26.238Z","severity":"INFO","event":"LOGOUT","username":"admin","detail":"User logged out"}
+{"timestamp":"2026-04-21T00:31:41.512Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"admin","detail":"Successful login"}
+{"timestamp":"2026-04-21T00:32:28.963Z","severity":"INFO","event":"LOGOUT","username":"admin","detail":"User logged out"}
+{"timestamp":"2026-04-21T00:33:55.590Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"admin","detail":"Successful login"}
+{"timestamp":"2026-04-27T02:29:12.884Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"admin","detail":"Successful login"}
+{"timestamp":"2026-04-27T02:30:59.624Z","severity":"INFO","event":"DOC_DELETE","username":"admin","detail":"Deleted wardelections_poster.pdf"}
+{"timestamp":"2026-04-28T01:20:22.992Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"admin","detail":"Successful login"}
+{"timestamp":"2026-04-29T22:00:40.157Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"admin","detail":"Successful login"}
+{"timestamp":"2026-04-29T22:00:49.690Z","severity":"INFO","event":"DOC_UPLOAD","username":"admin","detail":"Uploaded Lecture11_Physical_Security_DR.pdf (encrypted)"}
+{"timestamp":"2026-04-29T23:58:05.817Z","severity":"WARNING","event":"INVALID_TOKEN","username":"unknown","detail":"Expired or invalid JWT"}
+{"timestamp":"2026-04-29T23:58:17.682Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"lawyer","detail":"Successful login"}
+{"timestamp":"2026-04-29T23:58:25.433Z","severity":"INFO","event":"DOC_UPLOAD","username":"lawyer","detail":"Uploaded Lecture10B_IoT_Security.pdf (encrypted)"}
+{"timestamp":"2026-04-29T23:59:36.254Z","severity":"INFO","event":"LOGOUT","username":"lawyer","detail":"User logged out"}
+{"timestamp":"2026-04-29T23:59:50.871Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"doctor","detail":"Successful login"}
+{"timestamp":"2026-04-30T00:00:16.610Z","severity":"WARNING","event":"ACCESS_DENIED","username":"doctor","detail":"Tried to download Lecture10B_IoT_Security.pdf"}
+{"timestamp":"2026-04-30T00:02:33.779Z","severity":"WARNING","event":"ACCESS_DENIED","username":"doctor","detail":"Tried to access admin route"}
+{"timestamp":"2026-04-30T00:03:59.457Z","severity":"INFO","event":"LOGOUT","username":"doctor","detail":"User logged out"}
+{"timestamp":"2026-04-30T00:04:15.084Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"lawyer","detail":"Successful login"}
+{"timestamp":"2026-04-30T00:04:46.683Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"lawyer","detail":"Successful login"}
+{"timestamp":"2026-04-30T00:04:53.853Z","severity":"INFO","event":"LOGOUT","username":"lawyer","detail":"User logged out"}
+{"timestamp":"2026-04-30T00:05:02.765Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"doctor","detail":"Successful login"}
+{"timestamp":"2026-04-30T00:05:19.738Z","severity":"INFO","event":"DOC_UPLOAD","username":"doctor","detail":"Uploaded Lecture10A_Mobile_Security.pdf (encrypted)"}
+{"timestamp":"2026-04-30T00:07:56.114Z","severity":"INFO","event":"LOGOUT","username":"doctor","detail":"User logged out"}
+{"timestamp":"2026-04-30T00:08:06.283Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"lawyer","detail":"Successful login"}
+{"timestamp":"2026-04-30T00:08:17.445Z","severity":"INFO","event":"DOC_SHARE","username":"lawyer","detail":"Shared Lecture10B_IoT_Security.pdf with doctor (viewer)"}
+{"timestamp":"2026-04-30T00:08:19.661Z","severity":"INFO","event":"LOGOUT","username":"lawyer","detail":"User logged out"}
+{"timestamp":"2026-04-30T00:08:28.364Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"doctor","detail":"Successful login"}
+{"timestamp":"2026-04-30T00:10:38.109Z","severity":"WARNING","event":"ACCESS_DENIED","username":"doctor","detail":"Tried to access admin route"}
+{"timestamp":"2026-04-30T00:11:33.410Z","severity":"INFO","event":"LOGOUT","username":"doctor","detail":"User logged out"}
+{"timestamp":"2026-04-30T00:13:50.176Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"lawyer","detail":"Successful login"}
+{"timestamp":"2026-04-30T00:13:53.134Z","severity":"INFO","event":"DOC_UPLOAD","username":"lawyer","detail":"Uploaded passwd.pdf (encrypted)"}
+{"timestamp":"2026-04-30T00:15:20.725Z","severity":"INFO","event":"LOGOUT","username":"lawyer","detail":"User logged out"}
+{"timestamp":"2026-04-30T00:16:11.130Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"lawyer","detail":"Successful login"}
+{"timestamp":"2026-04-30T00:16:17.408Z","severity":"INFO","event":"DOC_DOWNLOAD","username":"lawyer","detail":"Downloaded passwd.pdf"}
+{"timestamp":"2026-04-30T00:16:36.987Z","severity":"INFO","event":"DOC_DELETE","username":"lawyer","detail":"Deleted passwd.pdf"}
+{"timestamp":"2026-04-30T00:24:39.409Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"lawyer","detail":"Successful login"}
+{"timestamp":"2026-04-30T00:27:37.156Z","severity":"INFO","event":"LOGOUT","username":"lawyer","detail":"User logged out"}
+{"timestamp":"2026-04-30T00:27:46.327Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"admin","detail":"Successful login"}
+{"timestamp":"2026-04-30T00:27:48.325Z","severity":"INFO","event":"LOGOUT","username":"admin","detail":"User logged out"}
+{"timestamp":"2026-04-30T00:27:54.294Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"admin","detail":"Successful login"}
+{"timestamp":"2026-04-30T00:35:27.160Z","severity":"INFO","event":"DOC_UPLOAD","username":"admin","detail":"Uploaded Lecture07B_Database_Security_Advanced.pdf (encrypted)"}
+{"timestamp":"2026-04-30T00:38:59.069Z","severity":"INFO","event":"DOC_DELETE","username":"admin","detail":"Deleted Lecture07B_Database_Security_Advanced.pdf"}
+{"timestamp":"2026-04-30T00:39:20.982Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"admin","detail":"Successful login"}
+{"timestamp":"2026-04-30T00:42:21.121Z","severity":"INFO","event":"DOC_DELETE","username":"admin","detail":"Deleted Lecture11_Physical_Security_DR.pdf"}
+{"timestamp":"2026-04-30T00:43:09.652Z","severity":"WARNING","event":"LOGIN_FAILED","username":"admin","detail":"Attempt 1/5"}
+{"timestamp":"2026-05-01T00:05:13.609Z","severity":"INFO","event":"LOGIN_SUCCESS","username":"doctor","detail":"Successful login"}
+{"timestamp":"2026-05-01T00:05:23.076Z","severity":"INFO","event":"DOC_DELETE","username":"doctor","detail":"Deleted Lecture10A_Mobile_Security.pdf"}

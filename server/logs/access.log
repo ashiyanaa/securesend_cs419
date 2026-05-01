@@ -1,0 +1,16 @@
+{"timestamp":"2026-04-20T02:16:01.194Z","severity":"INFO","event":"DOC_UPLOAD","username":"admin","detail":"Uploaded axolotl_article1.pdf (encrypted)"}
+{"timestamp":"2026-04-20T02:16:03.748Z","severity":"INFO","event":"DOC_DOWNLOAD","username":"admin","detail":"Downloaded axolotl_article1.pdf"}
+{"timestamp":"2026-04-20T23:06:28.690Z","severity":"INFO","event":"DOC_DELETE","username":"admin","detail":"Deleted axolotl_article1.pdf"}
+{"timestamp":"2026-04-20T23:13:46.761Z","severity":"INFO","event":"DOC_UPLOAD","username":"admin","detail":"Uploaded wardelections_poster.pdf (encrypted)"}
+{"timestamp":"2026-04-27T02:30:59.624Z","severity":"INFO","event":"DOC_DELETE","username":"admin","detail":"Deleted wardelections_poster.pdf"}
+{"timestamp":"2026-04-29T22:00:49.690Z","severity":"INFO","event":"DOC_UPLOAD","username":"admin","detail":"Uploaded Lecture11_Physical_Security_DR.pdf (encrypted)"}
+{"timestamp":"2026-04-29T23:58:25.433Z","severity":"INFO","event":"DOC_UPLOAD","username":"lawyer","detail":"Uploaded Lecture10B_IoT_Security.pdf (encrypted)"}
+{"timestamp":"2026-04-30T00:05:19.738Z","severity":"INFO","event":"DOC_UPLOAD","username":"doctor","detail":"Uploaded Lecture10A_Mobile_Security.pdf (encrypted)"}
+{"timestamp":"2026-04-30T00:08:17.445Z","severity":"INFO","event":"DOC_SHARE","username":"lawyer","detail":"Shared Lecture10B_IoT_Security.pdf with doctor (viewer)"}
+{"timestamp":"2026-04-30T00:13:53.134Z","severity":"INFO","event":"DOC_UPLOAD","username":"lawyer","detail":"Uploaded passwd.pdf (encrypted)"}
+{"timestamp":"2026-04-30T00:16:17.408Z","severity":"INFO","event":"DOC_DOWNLOAD","username":"lawyer","detail":"Downloaded passwd.pdf"}
+{"timestamp":"2026-04-30T00:16:36.987Z","severity":"INFO","event":"DOC_DELETE","username":"lawyer","detail":"Deleted passwd.pdf"}
+{"timestamp":"2026-04-30T00:35:27.160Z","severity":"INFO","event":"DOC_UPLOAD","username":"admin","detail":"Uploaded Lecture07B_Database_Security_Advanced.pdf (encrypted)"}
+{"timestamp":"2026-04-30T00:38:59.069Z","severity":"INFO","event":"DOC_DELETE","username":"admin","detail":"Deleted Lecture07B_Database_Security_Advanced.pdf"}
+{"timestamp":"2026-04-30T00:42:21.121Z","severity":"INFO","event":"DOC_DELETE","username":"admin","detail":"Deleted Lecture11_Physical_Security_DR.pdf"}
+{"timestamp":"2026-05-01T00:05:23.076Z","severity":"INFO","event":"DOC_DELETE","username":"doctor","detail":"Deleted Lecture10A_Mobile_Security.pdf"}
